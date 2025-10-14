@@ -2,6 +2,8 @@
 
 I graduated with a bachelors degree in Business Analytics from California State University, Sacramento, and am currently seeking a data analytics position. As a visual learner and artist turned data analyst, I thrive on transforming raw business data into compelling visuals that drive strategic decisions and create a competitive edge.
 
+Check out my Portfolio: https://seershikaj.github.io/SeershikaJarugula.github.io/
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seershika-jarugula-05725337a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Seershika02@gmail.com) 
 
